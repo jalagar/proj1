@@ -14,7 +14,8 @@ Herpaderp
 I put :back because the trainer will always be the previous trainer
 
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
+It renders an error attribute to pokemon and then outputs the message.
 
 # Give us feedback on the project and decal below!
-
+I had a lot of trouble with part 5 and didn't have a chance to go to office hours :(. Hopefully you won't dock too many points/
 # Extra credit: Link your Heroku deployed app
